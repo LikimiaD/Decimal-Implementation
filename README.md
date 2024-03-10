@@ -1,5 +1,8 @@
 # Decimal-Implementation
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 The `Decimal-Implementation` project is a custom C library designed to offer decimal arithmetic operations similar to those found in high-level languages but implemented in C for precise decimal computations. It supports arithmetic operations, comparisons, conversions, and rounding functions on decimal numbers with a focus on accuracy and efficiency.
 
 ## Features
